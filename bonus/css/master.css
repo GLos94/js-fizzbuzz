@@ -1,0 +1,23 @@
+*{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+h1{
+  color: red;
+  padding-left: 20px;
+}
+
+i{
+  padding-left: 8px;
+}
+
+li{
+  padding-bottom: 7px;
+  padding-right: 5px;
+  color: blue;
+}
+
+.container{
+ border: 1px solid blue;
+}
